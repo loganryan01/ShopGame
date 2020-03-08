@@ -1,4 +1,5 @@
 # ShopGame
+**Version 1.0.0**
 
 ## Description
 This game is a standard text-based RPG store simulator using the C# language.
@@ -19,8 +20,7 @@ You will need to download the "Shop.txt" and "Player.txt" in order for the game 
 Click on the ShopGame.exe file to load the game
 
 ## How to Operate
-
-**Version 1.0.0**
+Type in the commands that have brackets or highlighted yellow.
 
 ## Contributors
 
