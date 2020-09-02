@@ -1,0 +1,13 @@
+ShopGame.Dagger,fury,it was crafted by a lonely Moonwalker to hopefully avenge his wife’s death. ,5,dagger,2
+ShopGame.Chestplate,steel Chestguard of Eternal Torment,if an enemy were to strike you while you are wearing this chestplate they will be put into eternal torment.,20,chestplate,5
+ShopGame.Boots,chainmail Footguards of Endless Punishment,one strike from these footguards will lead the enemy into an endless punishment,10,boots,4
+ShopGame.Gloves,bronzed Gloves of Dark Protection,these gloves may look weak but they will protect you from darkness.,5,gloves,2
+ShopGame.Shield,pride’s Honour,this shield was crafted for the Queen of this land but she refused as she wass already protected by a castle.,10,shield,4
+ShopGame.Healing,potion of healing,this restores a small portion of your health,5,healing
+ShopGame.Shielding,potion of shielding,this restores a small portion of your armour,5,shielding
+ShopGame.Invincibility,potion of invincibility,this gives you temporary immunity,5,invincibility
+ShopGame.Rage,potion of rage,this doubles your attack for short period of time,5,rage
+ShopGame.Helmet,silver Helmet of Sacred Dreams,it holds all the dreams that you had,5,helmet,2
+ShopGame.Bow,shadow Strike,this bow strikes fear into the hearts of phantoms as it consumes them.,5,bow,2
+ShopGame.Axe,oathbreaker,legend says that it belonged to a great king until he vanished without a trace,25,axe,10
+ShopGame.Sword,dragon's Tooth,it was made from the tooth of a dragon and can cut through anything,10,sword,5
